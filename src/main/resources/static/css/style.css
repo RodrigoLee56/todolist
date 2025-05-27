@@ -1,0 +1,22 @@
+/* Estilo base do tema escuro */
+body.dark-mode {
+    background-color: #121212 !important;
+    color: #f5f5f5 !important;
+}
+
+body.dark-mode .form-control,
+body.dark-mode .list-group-item,
+body.dark-mode .card {
+    background-color: #1e1e1e !important;
+    color: #f5f5f5 !important;
+    border-color: #333 !important;
+}
+
+body.dark-mode a {
+    color: #66b0ff !important;
+}
+
+body.dark-mode .btn-outline-danger {
+    color: #f5f5f5 !important;
+    border-color: #dc3545 !important;
+}
